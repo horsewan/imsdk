@@ -1,0 +1,9 @@
+android_sdk/*.iml
+android_sdk/.gradle
+android_sdk/local.properties
+android_sdk/.idea/workspace.xml
+android_sdk/.idea/libraries
+android_sdk/.DS_Store
+android_sdk/build
+android_sdk/captures
+android_sdk/.externalNativeBuild
